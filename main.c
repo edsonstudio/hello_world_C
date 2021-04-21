@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>  //stdio = Standard Input Output
 
-void main(){
+int main(){     //void ou int
 
-    printf("Ola Mundo!!");
+    printf("Ola Mundo!!");  //printf = imprimir de forma formatada
 
     return 0;
 
