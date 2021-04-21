@@ -2,7 +2,7 @@
 
 int main(){     //void ou int
 
-    printf("Ola Mundo!!");  //printf = imprimir de forma formatada
+    printf("Hello World!!!");  //printf = imprimir de forma formatada
 
     return 0;
 
